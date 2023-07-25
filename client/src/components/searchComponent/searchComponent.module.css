@@ -1,0 +1,24 @@
+.mainHeader {
+    font-weight: bold;
+    color: #000099;
+}
+
+.mainSearchContainer {
+    padding: 5%;
+}
+
+.formField {
+    width: 100%;
+    margin-top: 2%;
+    border-radius: 50px !important;
+}
+
+.inputField {
+    border-radius: 50px !important;
+}
+
+.submitButton {
+    margin-top: 2% !important;
+    border-radius: 50px !important;
+    padding: 1%;
+}

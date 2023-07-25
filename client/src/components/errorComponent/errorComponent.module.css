@@ -1,0 +1,8 @@
+.warnMessage {
+    background-color: red;
+    padding: 1%;
+    border-radius: 50px;
+    box-shadow: 0 0 3px 1.5px rgba(255, 80, 80, 0.4);
+    color: #fff;
+    font-weight: bold;
+}
